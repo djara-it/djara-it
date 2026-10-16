@@ -1,12 +1,11 @@
-div align="center">
+<div align="center">
   <img src="./hologram.svg" width="500" alt="Hologram Portrait" />
 </div>
 
-# Hi, I'm D.J 👋
-
-### *Software Developer & Systems Explorer*  
-🚀 *Practical Automation · AI Integration · IT Infrastructure & Modern Web Tools*
-
+<div align="center">
+  <h1 style="margin-bottom: 0;">Hi, I'm D.J 👋</h1>
+  <h3><em>Software Developer & Systems Explorer</em></h3>
+  <p>🚀 <em>Practical Automation · AI Integration · IT Infrastructure & Modern Web Tools</em></p>
 ---
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Projects-success?style=for-the-badge&logo=appveyor)](https://github.com/djara-it/djara-it)
