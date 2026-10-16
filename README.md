@@ -6,14 +6,15 @@
   <h1 style="margin-bottom: 0;">Hi, I'm D.J 👋</h1>
   <h3><em>Software Developer & Systems Explorer</em></h3>
   <p>🚀 <em>Practical Automation · AI Integration · IT Infrastructure & Modern Web Tools</em></p>
----
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Projects-success?style=for-the-badge&logo=appveyor)](https://github.com/djara-it/djara-it)
 [![Focus](https://img.shields.io/badge/Focus-Automation%20%26%20Code-blue?style=for-the-badge&logo=git)](https://github.com/djara-it/djara-it)
 
 </div>
 
+
 ---
+
 
 ## ⚡ Featured Projects
 
@@ -50,11 +51,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streaks
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djara-it&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djara-it&theme=radical&hide_border=true&background=161b22" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djara-it&show_icons=true&theme=transparent&hide_border=true&text_color=00FF66&icon_color=00FF66" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djara-it&theme=transparent&hide_border=true&text_color=00FF66&side_card_color=transparent" alt="GitHub Streak" width="48%" />
+</p>
 
 ---
