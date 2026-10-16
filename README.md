@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3><code>dj@github ~ $ ./portrait.sh</code></h3>
-  <img src="./hologram.svg" width="400" />
+  <img src="./hologram.svg" width="370" />
 </div>
 
 # Hi, I'm D.J 👋
