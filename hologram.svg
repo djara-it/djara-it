@@ -16,7 +16,7 @@
  <text x="420.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">dj@github: ~$ ./portrait.sh</text>
  <clipPath id="r0">
   <rect x="20" y="37.0" height="8.333333" width="0">
-   <animate attributeName="width" from="0" to="800.0" begin="0.000s" dur="0.06s" fill="freeze"/>
+   <animate attributeName="width" from="0" to="460.0" begin="0.000s" dur="0.06s" fill="freeze"/>
   </rect>
  </clipPath>
  <g clip-path="url(#r0)">
@@ -172,7 +172,7 @@
   </rect>
  </clipPath>
  <g clip-path="url(#r19)">
-  <text xml:space="preserve" x="20" y="201.53332699999999" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">.................``:=**+```..................``::c%%c::``..................``:-#%%+:``..............</text>
+  <text xml:space="preserve" x="20" y="201.53332699999999" fill="#c9d1d9" font-size="7.2" textLength="460.0" lengthAdjust="spacing">.................``:=**+```..................``::c%%c::``..................``:-#%%+:``..............</text>
  </g>
  <clipPath id="r20">
   <rect x="20" y="203.66665999999998" height="8.333333" width="0">
