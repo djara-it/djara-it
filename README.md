@@ -1,6 +1,6 @@
 <div align="center">
 
-![Holograma](./avi-ascii.svg)
+![Hologram](./hologram.svg)
 
 # Hi, I'm D.J 👋
 
