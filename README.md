@@ -1,16 +1,17 @@
 <div align="center">
 
-# Hi, I'm D.J 👋
+<!-- Tu icono de usuario de GitHub con un diseño circular y brillo neón futurista -->
+<img src="https://avatars.githubusercontent.com/u/148281395?v=4" alt="D.J Avatar" width="150px" style="border-radius: 50%; border: 2px solid #8E75B2; box-shadow: 0 0 20px rgba(142, 117, 178, 0.6);" />
 
-<img src="https://komarev.com/ghpvc/?username=djara-it&color=blueviolet&style=flat-square" alt="Profile Views" />
+# Hi, I'm D.J 👋
 
 ### *Software Developer & Systems Explorer*  
 🚀 *Practical Automation · AI Integration · IT Infrastructure & Modern Web Tools*
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Status-Open%20to%20Projects-success?style=for-the-badge&logo=appveyor)](https://github.com/djara-it)
-[![GitHub Streak](https://img.shields.io/badge/Focus-Automation%20%26%20Code-blue?style=for-the-badge&logo=git)](https://github.com/djara-it)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Projects-success?style=for-the-badge&logo=appveyor)](https://github.com/djara-it/djara-it)
+[![Focus](https://img.shields.io/badge/Focus-Automation%20%26%20Code-blue?style=for-the-badge&logo=git)](https://github.com/djara-it/djara-it)
 
 </div>
 
@@ -20,9 +21,9 @@
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[AppStorm](https://github.com/djara-it/AppStorm)** | Utility hub featuring exclusive Android apps, interactive guides, and a built-in background music player. | `HTML5`, `CSS3`, `JavaScript`, `ESLint` |
+| **[AppStorm](https://djara-it.github.io/AppStorm/)** | Utility hub featuring exclusive Android apps, interactive guides, and a built-in background music player. | `HTML5`, `CSS3`, `JavaScript`, `ESLint` |
 | **[anki-english-workflow](https://github.com/djara-it/anki-english-workflow)** | Automated vocabulary pipeline with voice synthesis, LLM integration, and local review before syncing to Anki. | `Python`, `Google Gemini API`, `ElevenLabs`, `AnkiConnect` |
-| **[Laboratorio-IT-VirtualBox](https://github.com/djara-it/Laboratorio-IT-VirtualBox)** | Structured hands-on environment for network isolation, virtualized lab setups, and system administration testing. | `VirtualBox`, `Linux Systems`, `Networking` |
+| **[Laboratorio-IT-VirtualBox](https://github.com/djara-it/)** | Structured hands-on environment for network isolation, virtualized lab setups, and system administration testing. | `VirtualBox`, `Linux Systems`, `Networking` |
 
 ---
 
