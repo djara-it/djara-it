@@ -1,8 +1,6 @@
 <div align="center">
 
-<object data="./hologram.svg" type="image/svg+xml" width="380px">
-  <img src="./hologram.svg" alt="D.J Hologram" width="380px" />
-</object>
+<img src="https://raw.githubusercontent.com/djara-it/djara-it/main/hologram.svg" width="380px" alt="D.J Hologram" />
 
 # Hi, I'm D.J 👋
 
