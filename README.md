@@ -1,6 +1,10 @@
 <div align="center">
   <h3><code>dj@github ~ $ ./portrait.sh</code></h3>
-  <img src="./hologram.svg" width="370" />
+  <table>
+    <tr>
+      <td align="center"><img src="./hologram.svg" width="370" /></td>
+    </tr>
+  </table>
 </div>
 
 # Hi, I'm D.J 👋
