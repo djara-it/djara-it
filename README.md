@@ -1,10 +1,5 @@
-<div align="center">
-  <h3><code>dj@github ~ $ ./portrait.sh</code></h3>
-  <table>
-    <tr>
-      <td align="center"><img src="./hologram.svg" width="370" /></td>
-    </tr>
-  </table>
+div align="center">
+  <img src="./hologram.svg" width="500" alt="Hologram Portrait" />
 </div>
 
 # Hi, I'm D.J 👋
