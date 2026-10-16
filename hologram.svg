@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="880.0" viewBox="0 0 840.0 880.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="500.0" viewBox="0 0 840.0 880.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
  <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
    <stop offset="0" stop-color="#111722"/>
    <stop offset="1" stop-color="#0d1117"/>
   </linearGradient>
  </defs>
- <rect width="840.0" height="880.0" rx="12" fill="url(#bg)"/>
+ <rect width="840.0" height="400.0" rx="12" fill="url(#bg)"/>
  <rect x="0.5" y="0.5" width="839.0" height="879.0" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
  <line x1="0" y1="30" x2="840.0" y2="30" stroke="#30363d"/>
  <circle cx="20" cy="15.0" r="5" fill="#ff5f56"/>
