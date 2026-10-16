@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/djara-it/djara-it/main/hologram.svg" width="380px" alt="D.J Hologram" />
+![Holograma](./hologram.svg)
 
 # Hi, I'm D.J 👋
 
