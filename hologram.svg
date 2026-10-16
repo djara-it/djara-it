@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="100%" height="100%">
+  <defs>
+    <!-- Estilos y animaciones del holograma -->
+    <style>
+      @keyframes scanline {
+        0% { transform: translateY(-100%); }
+        100% { transform: translateY(200%); }
+      }
+      @keyframes flicker {
+        0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 0.95; }
+        20%, 24%, 55% { opacity: 0.4; }
+      }
+      @keyframes pulse-glow {
+        0%, 100% { filter: drop-shadow(0 0 8px rgba(0, 243, 255, 0.6)); }
+        50% { filter: drop-shadow(0 0 20px rgba(0, 243, 255, 0.9)); }
+      }
+      .holo-text {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        font-size: 48px;
+        fill: #00f3ff;
+        text-anchor: middle;
+        animation: flicker 3s infinite, pulse-glow 2s infinite;
+      }
+      .sub-text {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #b0c4de;
+        text-anchor: middle;
+        letter-spacing: 4px;
+      }
+      .scanner {
+        animation: scanline 2.5s linear infinite;
+      }
+    </style>
+    
+    <!-- Gradiente para el haz de luz -->
+    linearGradient id="scan-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f3ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f3ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00f3ff" stop-opacity="0" />
+    
+  
+
+  <!-- Fondo oscuro tecnológico -->
+  <rect width="100%" height="100%" fill="#0d1117" rx="12" />
+
+  <!-- Líneas de rejilla cibernética sutiles -->
+  <g stroke="#1f2937" stroke-width="1" opacity="0.4">
+    <line x1="0" y1="50" x2="400" y2="50" />
+    <line x1="0" y1="100" x2="400" y2="100" />
+    <line x1="0" y1="150" x2="400" y2="150" />
+    <line x1="100" y1="0" x2="100" y2="200" />
+    <line x1="200" y1="0" x2="200" y2="200" />
+    <line x1="300" y1="0" x2="300" y2="200" />
+  </g>
+
+  <!-- Contenido principal: Holograma D.J -->
+  <g transform="translate(200, 95)">
+    <!-- Marco hexagonal o circular estilo sci-fi -->
+    <circle cx="0" cy="-5" r="70" fill="none" stroke="#00f3ff" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6" />
+    
+    <!-- Texto principal con tus iniciales -->
+    <text x="0" y="12" class="holo-text">[ D . J ]</text>
+    
+    <!-- Subtexto de estado -->
+    <text x="0" y="55" class="sub-text">SYSTEM_ONLINE</text>
+  </g>
+
+  <!-- Línea de escaneo láser animada (Efecto Holograma) -->
+  <rect class="scanner" x="0" y="0" width="400" height="30" fill="url(#scan-grad)" pointer-events="none" />
+</svg>
