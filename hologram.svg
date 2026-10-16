@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="500.0" viewBox="0 0 840.0 880.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="880.0" viewBox="0 0 840.0 880.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
  <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-   <stop offset="0" stop-color="#111722"/>
-   <stop offset="1" stop-color="#0d1117"/>
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#000000"/>
   </linearGradient>
  </defs>
  <rect width="840.0" height="400.0" rx="12" fill="url(#bg)"/>
@@ -20,7 +20,7 @@
   </rect>
  </clipPath>
  <g clip-path="url(#r0)">
-  <text xml:space="preserve" x="20" y="43.2" fill="#c9d1d9" font-size="7.2" textLength="800.0" lengthAdjust="spacing">....................................................................................................</text>
+  <text xml:space="preserve" x="20" y="43.2" fill="#00FFFF" font-size="7.2" textLength="800.0" lengthAdjust="spacing">....................................................................................................</text>
  </g>
  <clipPath id="r1">
   <rect x="20" y="45.333332999999996" height="8.333333" width="0">
