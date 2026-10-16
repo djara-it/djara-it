@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Tu icono de usuario de GitHub con un diseño circular y brillo neón futurista -->
-<img src="https://avatars.githubusercontent.com/u/148281395?v=4" alt="D.J Avatar" width="150px" style="border-radius: 50%; border: 2px solid #8E75B2; box-shadow: 0 0 20px rgba(142, 117, 178, 0.6);" />
+<div align="center">
+
+<img src="./hologram.svg" alt="D.J Hologram" width="350px" />
 
 # Hi, I'm D.J 👋
 
